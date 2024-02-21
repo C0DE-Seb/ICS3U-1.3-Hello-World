@@ -1,0 +1,10 @@
+first_name=input("Enter your first name: ")
+last_name=input("Enter your last name: ")
+age=input("Enter your age: ")
+current_mark=input("Enter your current mark: ")
+locker=input("Have you been assigned a locker (True/False)? ")
+
+print("\nName: "+first_name+" "+last_name)
+print("Age: "+age)
+print("Current Mark: "+current_mark)
+print("Locker Assigned: "+locker)
